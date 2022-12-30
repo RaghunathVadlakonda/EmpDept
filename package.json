@@ -21,7 +21,7 @@
     "@types/node": "^12.6.8",
     "@types/sinon": "^7.0.13",
     "chai": "^4.2.0",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "node-mocks-http": "^1.7.6",
     "nyc": "^14.1.1",
     "sinon": "^7.4.1",
